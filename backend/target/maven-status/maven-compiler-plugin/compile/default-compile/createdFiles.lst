@@ -1,0 +1,5 @@
+com/resumechecker/model/ResumeRequest.class
+com/resumechecker/service/ResumeService.class
+com/resumechecker/model/ResumeResponse.class
+com/resumechecker/controller/ResumeController.class
+com/resumechecker/ResumeCheckerApplication.class
